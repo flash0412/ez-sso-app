@@ -1,6 +1,6 @@
 {
-  "realm": "rhtraining",
-  "auth-server-url": "https://sso.lab.example.com:8080/auth/",
+  "realm": "Eztest",
+  "auth-server-url": "https://sso-openshift.mycluster-jp-tok-1-123041-3d9ab5d076761217f9a82bbdca265e87-0000.jp-tok.containers.appdomain.cloud/auth/",
   "ssl-required": "external",
   "resource": "marketing-html5",
   "public-client": true,
